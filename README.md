@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Lucky from South Africa <br><br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python & Typescript<br>- ⚡ In my free time I collect and produce music.</p>
+<p align="left"> 🔭 I build fast, conversion-focused websites for small online businesses.<br>- 📚 I'm currently learning Python & Typescript<br>- ⚡ In my free time I collect and produce music.</p>
 
 ###
 
