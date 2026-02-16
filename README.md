@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"> 🔭 I build fast, conversion-focused websites for online businesses and creatives.<br>- 📚 I'm currently learning to play with AI<br>- ⚡ In my free time I collect and produce music.</p>
+<p align="left"> 🔭 I build fast, conversion-focused websites for online businesses and creatives.<br>- 📚 I'm currently learning to play with AI and the Blockchain!<br>- ⚡ In my free time I collect and produce music.</p>
 
 ###
 
